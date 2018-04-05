@@ -13,5 +13,6 @@ git checkout readme-edits //checks out a branch
 git log - shows repository history
 git branch - shows repository branches
 git pull
-git push
-git commit
+git push - pushes the locally committed changes to the github branch
+
+git commit -a -- commits all but a note must be added
